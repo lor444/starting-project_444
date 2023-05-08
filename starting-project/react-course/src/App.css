@@ -1,0 +1,34 @@
+.card-section {                    // funziona
+  display: flex;                   // funziona
+  flex-wrap: wrap;                 // funziona
+  padding: 30px;                   // funziona
+}                                  // funziona
+
+.card {                            // funziona
+  border: 1px solid brown;         // funziona
+  border-radius: 12px;             // funziona
+  text-align: center;              // funziona
+  margin: 8px;                     // funziona
+}                                  // funziona
+
+.card img {                        // funziona
+  border-radius: 12px 12px 0 0;    // funziona
+}                                  // funziona
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
